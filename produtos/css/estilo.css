@@ -1,0 +1,46 @@
+header {
+    background-color: #42436c;
+    padding: 10px;
+}
+
+header h1 {
+    color: aliceblue;
+}
+
+.title {
+    padding: 10px;
+    background-color: #42436c;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.container {
+    border: 2px solid #42436c;
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#distância:hover, #tempo:hover {
+    background-color: lightgray;
+
+
+}
+
+#velocidade:hover {
+    background-color: #b8b8ce;
+}
+
+.btn-calculo {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.btn-calculo .btn {
+    margin-right: 10px;
+}
